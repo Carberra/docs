@@ -23,4 +23,4 @@ This section will run you through the guidelines you must adhere to in the Disco
 Reporting violations
 ====================
 
-If it is an emergency, mention the Moderator role. Otherwise. if you wish to report another member doscretely, you can send a message to the moderators using the modmail system. To do this, DM the Modmail bot. In doing this, you provide all moderators permission to DM you if they need to follow up on your report. Please do not use the modmail system for anything other than reporting a guideline violation; you will receive a warning if you misuse it.
+If it is an emergency, mention the Moderator role. Otherwise. if you wish to report another member discretely, you can send a message to the moderators using the modmail system. To do this, DM the Modmail bot. In doing this, you provide all moderators permission to DM you if they need to follow up on your report. Please do not use the modmail system for anything other than reporting a guideline violation; you will receive a warning if you misuse it.

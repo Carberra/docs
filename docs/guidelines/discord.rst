@@ -19,6 +19,7 @@ This section will run you through the guidelines you must adhere to in the Disco
     - Only directly mention members who are currently helping you.
     - Only mention a helper role once per case, and only after waiting 30 minutes.
 #. Respect the opinions of others. Debate is fine, but keep it civil.
+#. Do not send content which contains material that could trigger medical conditions or cause damage to others, such as earrape or flashing visuals.
 
 Reporting violations
 ====================

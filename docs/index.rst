@@ -25,3 +25,9 @@ These docs are designed to help you with anything Carberra, except Carberretta, 
     applications/mod
     applications/bot
     applications/guest
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Miscellaneous
+
+    misc/appeals

@@ -6,7 +6,7 @@ The scale is designed to give the viewer an idea of how difficult something is g
 Programming tutorials
 =====================
 
-- **Beginner**: You're new, and are currently learning the fundamentals. You should understand what's going on here before advancing any further.
+- **Easy**: You're new, and are currently learning the fundamentals. You should understand what's going on here before advancing any further.
 - **Intermediate**: You've got the fundamentals down, and are looking to stretch out a little. The odd Google search now and then doesn't phase you.
 - **Advanced**: You've been going at it for a while, and are really getting the hang of it. You're up for doing some experimentation to make sure you've got it down to a T.
 - **Expert**: You're super confident in your abilities, and are looking for a *real* challenge. You're prepared for the extensive research and experimentation needed, because you really want this.
@@ -17,6 +17,6 @@ Software tutorials
 
 Software tutorials use a simplified version of the above scale.
 
-- **Beginner**: You'll more than likely be able to do this first try, barring any really specific issues.
+- **Easy**: You'll more than likely be able to do this first try, barring any really specific issues.
 - **Intermediate**: You'll need to put in some time and effort for this most likely, but you'll get there.
 - **Advanced**: You're gonna want to strap in for this.

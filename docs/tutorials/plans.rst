@@ -35,12 +35,12 @@ This sheet details information about every tutorial series, past, present, and k
      - A date.
    * - End date
      - The date the final episode was or will be published to YouTube. This does not include requests or case studies.
-     - A date.
-   * - EOR
-     - Short for "End of Requests". This is the date after which requests will no longer be accepted and may change provided the date has not already passed. The time is assumed as midnight UTC.
-     - A date, or "TBC" if this is unknown.
-   * - EOS
-     - Short for "End of Support". This is the date after which series will no longer be officially supported and may change provided the date has not already passed. After the EOS date has passed, comments will no longer be responded to, and you may not be able to receive help in the Discord server. The time is assumed as midnight UTC.
+     - A date, or "Never" if the series is currently on a rolling release system.
+   * - Support status
+     - The support status of the series.
+     - Fully supported • Partly supported • Not supported
+   * - Until
+     - The date in which the current support status will expire. If the status is "Not supported", this date shows the date that the series lost all support.
      - A date, or "TBC" if this is unknown.
 
 The "Requests" sheet

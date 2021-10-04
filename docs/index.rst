@@ -8,6 +8,7 @@ These docs are designed to help you with anything Carberra, except Carberretta, 
     :caption: Tutorials
 
     tutorials/plans
+    tutorials/lifecycle
     tutorials/difficulty
 
 .. toctree::
